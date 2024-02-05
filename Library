@@ -1,0 +1,11 @@
+namespace Task5Library;
+
+using System;
+
+    public class Class1
+    {
+        public static double FindMax(double num1, double num2, double num3)
+        {
+            return Math.Max(num1, Math.Max(num2, num3));
+        }
+    }// DARELL SAMEDY CPS 3330-02 LAB 2
